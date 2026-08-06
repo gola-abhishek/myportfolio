@@ -72,3 +72,4 @@ This project is open for learning and inspiration. Please do not copy the conten
 ---
 
 ⭐ If you like this portfolio, feel free to star the repository!
+
