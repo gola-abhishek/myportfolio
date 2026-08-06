@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my background
 
 ## 🚀 Live Website
 
-🌐 https://gola-abhishek.github.io/portfolio/
+🌐 https://gola-abhishek.github.io/myportfolio/
 
 ---
 
